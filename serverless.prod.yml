@@ -1,0 +1,5 @@
+
+cors:
+  allowedOrigins:
+    - https://go.growme.fyi:9000
+cloudFrontAlias: go-assets.growme.fyi

@@ -1,0 +1,16 @@
+{
+  "name": "go-assets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "./node_modules/.bin/sls deploy && node scripts/deploy"
+  },
+  "keywords": [],
+  "author": "Corey Ferguson <corey.t.ferguson@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "child-process-promise": "^2.2.1",
+    "serverless": "^1.57.0"
+  }
+}
