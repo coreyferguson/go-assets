@@ -1,6 +1,6 @@
 
 cors:
   allowedOrigins:
-    - https://go-local.growme.fyi:9000
-    - https://go-dev.growme.fyi
-cloudFrontAlias: go-dev-assets.growme.fyi
+    - https://local.growme.fyi:9000
+    - https://dev.growme.fyi
+cloudFrontAlias: dev-assets.growme.fyi
