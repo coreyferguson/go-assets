@@ -1,5 +1,5 @@
 
 cors:
   allowedOrigins:
-    - https://go.scil.help:9000
-cloudFrontAlias: go-assets.scil.help
+    - https://go.scil.link:9000
+cloudFrontAlias: go-assets.scil.link
