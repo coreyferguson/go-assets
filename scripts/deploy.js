@@ -14,5 +14,5 @@ async function runAll() {
 
 function synchronize() {
   console.info('Starting synchronize');
-  return exec(`aws s3 sync assets s3://growme-go-${stage}-assets`);
+  return exec(`aws s3 sync assets s3://wayne4m.com-go-${stage}-assets`);
 }
