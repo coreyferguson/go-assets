@@ -1,5 +1,5 @@
 
 cors:
   allowedOrigins:
-    - https://go.${self:custom.domain}:9000
+    - https://${self:custom.domain}:9000
 cloudFrontAlias: go-assets.${self:custom.domain}
