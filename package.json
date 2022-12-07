@@ -11,6 +11,6 @@
   "license": "ISC",
   "devDependencies": {
     "child-process-promise": "^2.2.1",
-    "serverless": "^1.57.0"
+    "serverless": "^3.25.1"
   }
 }
